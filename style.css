@@ -44,8 +44,9 @@
     .box {
       width: 100%;
       height: 280px;
-      background: linear-gradient(to right, #ccc, #fff);
+      background: linear-gradient(to right, #000000, #fff);
       border-radius: 30px;
+      
     }
 
     .right-panel {
